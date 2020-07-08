@@ -1,0 +1,30 @@
+.navbar {
+	background: aqua;
+	height: 50px;
+	margin-bottom: 20px;
+	border-radius: 20px;
+	border-style: dotted;
+}
+
+.hero {
+	background: yellow;
+	height: 400px;
+	margin-bottom: 20px;
+}
+
+.container {
+	display: flex;
+	justify-content: space-between;
+}
+.item {
+	background: rebeccapurple;
+	height: 200px;
+	width: 200px;
+	margin-bottom: 20px;
+}
+.footer {
+	background: blue;
+	height: 50px;
+	border-radius: 20px;
+	border-style: double;
+}

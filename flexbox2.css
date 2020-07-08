@@ -1,0 +1,15 @@
+.container {
+	background: blue;
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	min-height: 600px;
+
+}
+
+.container div {
+	background: rebeccapurple;
+	margin: 5px;
+	height: 100px;
+	width: 100px;
+}
